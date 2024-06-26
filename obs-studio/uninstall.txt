@@ -1,0 +1,9 @@
+	Uninstall obs-studio on ubuntu
+
+sudo apt remove obs-studio -y
+
+sudo apt remove --auto-remove obs-studio -y
+
+sudo apt purge obs-studio -y
+
+sudo apt purge --auto-remove obs-studio -y
